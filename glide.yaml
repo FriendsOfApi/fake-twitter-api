@@ -1,0 +1,7 @@
+package: github.com/FriendsOfApi/fake-twitter-api
+import:
+- package: github.com/julienschmidt/httprouter
+  version: ^1.1.0
+- package: github.com/sagikazarmark/bingo
+  version: ^0.1.0
+- package: github.com/spf13/pflag
